@@ -1,4 +1,9 @@
-First line added
+First line insertedt config merge.conflictstyle diff3
+git config mergetool.prompt false
 Second line added with modification
 Third line added
+<<<<<<< HEAD
 Fourth line added
+=======
+fourth line added
+>>>>>>> dev
